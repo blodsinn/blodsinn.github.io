@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Blödsinn Translations</title>
+    <link>https://blodsinn.github.io/</link>
+    <description>Recent content on Blödsinn Translations</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 27 Nov 2021 11:22:45 +0300</lastBuildDate><atom:link href="https://blodsinn.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello</title>
+      <link>https://blodsinn.github.io/posts/hello/</link>
+      <pubDate>Sat, 27 Nov 2021 11:22:45 +0300</pubDate>
+      
+      <guid>https://blodsinn.github.io/posts/hello/</guid>
+      <description>Hello! We&amp;rsquo;re starting our translation journey here. Updates will be posted on this website. For now, we&amp;rsquo;ll be translating manga/doujinshi but we might expand later.
+Hope you enjoy!</description>
+    </item>
+    
+    
+    <item>
+      <title>Commission</title>
+      <link>https://blodsinn.github.io/commission/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://blodsinn.github.io/commission/</guid>
+      <description>Comissions are OPEN Current rates:
+ Translation: $1.5/page Translation + Editing: $3/page  Not all pages have the same density, therefore a dense page might cost more and a sparse page less.
+Contact: blodsinn666@gmail.com</description>
+    </item>
+    
+    <item>
+      <title>Donate</title>
+      <link>https://blodsinn.github.io/donate/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://blodsinn.github.io/donate/</guid>
+      <description>Thank you!
+ETH: 0x974e3DBD84E00f485723dAb2ED22A1337A11bAB9
+Other options coming soon.</description>
+    </item>
+    
+    <item>
+      <title>Posts</title>
+      <link>https://blodsinn.github.io/posts/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://blodsinn.github.io/posts/</guid>
+      <description>posts</description>
+    </item>
+    
+    <item>
+      <title>Works</title>
+      <link>https://blodsinn.github.io/works/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://blodsinn.github.io/works/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
